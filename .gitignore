@@ -1,6 +1,7 @@
 /data
 /models
 *.pdf
+*.pt
 /record
 /original
 
